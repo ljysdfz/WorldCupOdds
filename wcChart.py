@@ -341,14 +341,3 @@ def generateKnockoutChartsWithMatches(matches:[]):
 #######################
 
 generateKnockoutChartsWithMatches(matches)
-
-
-
-# with sqlite3.connect('C:\\Users\\Robin\\Desktop\\SQLiteStudio\\Worldcup.db') as conn:
-# 	c = conn.cursor()
-# 	c.execute('''
-# 		SELECT totalGoal,count(totalGoal) 
-# 		FROM Faceoffs
-# 		GROUP BY totalGoal;
-# 		''')
-# 	l = c.fetchall()
