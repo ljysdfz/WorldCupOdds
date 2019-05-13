@@ -2,9 +2,9 @@
 
 World Cup odds crawling &amp; processing
 
-wcUtil: Toolkits that providing respective methods to handle different categories of data/file processing.
+wcUtil: Toolkits providing respective methods to handle different categories of data/file processing.
 
-wcNetwork: Network layer that completing network accessing
+wcNetwork: Network layer completing network accessing
 
 wcChart: Generate charts for miscellaneous analyzing purposes
 
